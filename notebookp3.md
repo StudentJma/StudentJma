@@ -146,6 +146,38 @@ Track your learning
 Use checklists to mark what’s done.
 
 Use collapsible sections if you want to hide answers until review time.
+## Flutter Notes
+
+### What is Flutter?
+- Definition:
+- Why is it useful?
+
+---
+
+### Key Terms and Definitions
+
+| Term             | Definition                                      | Example / Notes                          |
+|------------------|--------------------------------------------------|-------------------------------------------|
+| Widget           | basic bulding block of a Flutter app. Everything is a widget.| text, imagine, conatiner column   |
+| MaterialApp      | the root of the app. sets up routes and themes.  |found in main.dart                         |
+| Scaffold         |provides basic visual layout- header,body floating button|                                           |
+| StatelessWidget  |a widget that doesnt change                       |most of the screen files                   |
+| StatefulWidget   |a widget that can change over time                |Used in my home page()                     |
+| Navigator        |manages screen transitions                        |navigator.pushNammed(context. *page2*):    |
+| AppBar           |top navigator bar                                 |title of each page appears here            |
+| Column           |  verticle layout                                 |                                           |
+| Row              |  horizontal layout                               |                                           |
+| Container        |  wraps content with padding, margin or color     |                                           |
+| Text             |  displays text                                   |                                           |
+| Image.network    |  displays images from URL                        |                                           |
+
+---
+
+### Layout and Design Widgets
+- How do you center a widget?
+- How do you align something to the left or right?
+- What widget adds space around content?
+
 
 ✅ Bottom Line:
 
