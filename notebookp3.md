@@ -87,8 +87,9 @@ At the top, begin a table of contents, Ex.:
 | | |  |  |  |
 | | |  |  |  |
 
-
-
+[String notes](#string-notes)
+###string notes
+strings have indices (plural for index) which start at 0. "hello" has indices 0(H), 2(1), 3(1), 4(o).
 
 
 
